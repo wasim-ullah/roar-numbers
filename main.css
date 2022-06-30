@@ -1,0 +1,5 @@
+body {
+  background-color: navy;
+  /* KLUDGE: you can optionally kill scrolling because the PIXI canvas seems to be about 4px taller than it should be
+  overflow: hidden; */
+}
